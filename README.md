@@ -1,4 +1,4 @@
-README.md (Task 1 – Telco Customer Churn)
+**README.md (Task 1 – Telco Customer Churn)**
 # Task 1: Basic Exploration of Telco Customer Churn Dataset
 
 ## 📌 Objective
